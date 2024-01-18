@@ -77,10 +77,10 @@ if exists('+termguicolors')
   set termguicolors
 endif
 
-let g:aurora_colorscheme_theme = 'eva01'
-colorscheme eva01
+let g:aurora_colorscheme_theme = 'dracula'
+colorscheme dracula
 
-let g:airline_theme = 'aurora'
+let g:airline_theme = 'dracula'
 
 
 
